@@ -1,3 +1,6 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/KvnFltr/face-recognition/blob/main/notebooks/facial_recognition_code_only.ipynb)
+
 # Bias-aware Face Recognition (Notebook)
 
 This repo hosts a single Jupyter notebook implementing a face recognition pipeline:
