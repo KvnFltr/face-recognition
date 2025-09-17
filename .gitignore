@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+# Jupyter
+.ipynb_checkpoints/
+# Data / modèles / sorties
+data/
+runs/
+outputs/
+*.pt
+*.pth
+*.ckpt
+# OS
+.DS_Store
